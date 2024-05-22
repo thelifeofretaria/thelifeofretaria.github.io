@@ -1,0 +1,11 @@
+
+#084144 # Dark green
+#8dc9c7 # Light green
+
+#3d4449 # Dark grey
+#60666b # Light grey
+
+#FFFB32 # yellow
+#AF3001 # red
+#ffffff # white
+#000000 # black
